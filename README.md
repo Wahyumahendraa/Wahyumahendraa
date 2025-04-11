@@ -1,32 +1,32 @@
 ### 👋 Hi there, I'm Wahyu Mahendra
 
-I'm a Junior Data Analyst with a growing passion for turning numbers into meaningful insights. My goal is to become a **professional Business Analyst**, but I stay open to exploring different areas of data, wherever curiosity and opportunity take me.
+I'm a Junior Data Analyst with a growing passion for turning numbers into meaningful insights. My goal is to become a **professional Business Analyst**, but I'm always open to exploring different areas of data — wherever curiosity and opportunity take me.
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🔧 Tools & Skills
 - **Power BI** | **Excel** | **SQL** | **Python**
-- Comfortable building dashboards, , cleaned data, exploring datasets, and finding insights through clean visuals and code.
+- Experienced in building dashboards, cleaning and exploring datasets, and delivering insights through clear visuals and code.
 
 ---
 
 ### 📈 What I'm Working On
-Currently focused on:
-- Building my **portfolio** with hands-on personal projects
-- Deepening my understanding of **business workflows** and real-world applications of analytics
-- Learning how to **communicate data insights clearly** and align with stakeholder needs
+Right now, I'm focused on:
+- Growing my **portfolio** through hands-on personal projects
+- Deepening my understanding of **business workflows** and real-world data applications
+- Learning to **communicate insights effectively** and collaborate with stakeholders
 
 ---
 
 ### 🎯 Why Data?
-I started this journey because I found myself getting lost in data. Time flew, and I loved the process. Over time, I realized being a Data Analyst isn’t just about tools or numbers, but about **collaboration, business understanding**, and making data actually *matter*.
+I got into data because I genuinely enjoy the process — I’d dive in and lose track of time. Along the way, I’ve learned that being a data analyst isn’t just about tools or technical skills, but also about **business thinking, collaboration**, and **storytelling with data**.
 
 ---
 
-### 🤝 Let's Connect or Collaborate
-Right now, I'm focused on learning and building, but I'm always open to feedback or small collaborations. Feel free to check out my projects — more coming soon!
+### 🤝 Let’s Connect!
+I'm currently in learning and building mode, but always open to feedback, discussions, and potential collaborations.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/wahyumahendraa)
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/wahyumahendraa)
 
 ---
 
