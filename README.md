@@ -1,32 +1,33 @@
-# 👋 Hi There!, I’m Wahyu Mahendra
+### 👋 Hi there, I'm Wahyu Mahendra
 
-🎯 **Junior Data Analyst** who loves turning data into **clear** and **actionable insights**.  
-🛠️ Working mostly with **Power BI**, **SQL**, **Excel**, and a bit of **Python**.  
-📚 Still learning — and **loving the process** every step of the way.
+I'm a Junior Data Analyst with a growing passion for turning numbers into meaningful insights. My goal is to become a **professional Business Analyst**, but I stay open to exploring different areas of data, wherever curiosity and opportunity take me.
 
 ---
 
-## 🧠 What I Do
-
-- Build clean, interactive dashboards in Power BI  
-- Explore business data to find valuable insights  
-- Analyze and report on performance and financial data  
-- Clean, transform, and play with data to discover trends  
+### 🔧 Tech Stack & Tools
+- **Power BI** | **Excel** | **SQL** | **Python**
+- Comfortable building dashboards, , cleaned data, exploring datasets, and finding insights through clean visuals and code.
 
 ---
 
-## 📂 What You’ll Find Here
-
-Most of my projects focus on:
-- 📊 **Business performance analysis**
-- 📈 **Financial metrics and KPIs**
-- 🔍 Random explorations of interesting datasets
-
-I believe in **learning by doing**, so I’m always building, improving, and experimenting with new ideas.
+### 📈 What I'm Working On
+Currently focused on:
+- Building my **portfolio** with hands-on personal projects
+- Deepening my understanding of **business workflows** and real-world applications of analytics
+- Learning how to **communicate data insights clearly** and align with stakeholder needs
 
 ---
 
-## 🤝 Let’s Connect
+### 🎯 Why Data?
+I started this journey because I found myself getting lost in data. Time flew, and I loved the process. Over time, I realized being a Data Analyst isn’t just about tools or numbers, but about **collaboration, business understanding**, and making data actually *matter*.
 
-- 💼 Open to **collaborations**, **freelance work**, and **data challenges**
-- 🗨️ Feel free to explore, fork, or reach out if anything sparks your interest!
+---
+
+### 🤝 Let's Connect or Collaborate
+Right now, I'm focused on learning and building, but I'm always open to feedback or small collaborations. Feel free to check out my projects — more coming soon!
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/wahyumahendraa)
+
+---
+
+Thanks for stopping by! 🚀
